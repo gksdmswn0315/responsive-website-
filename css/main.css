@@ -412,7 +412,7 @@ p {
   color: var(--color-white);
   background-color: var(--color-pink);
   border-radius: 50%;
-  /* opacity: 0; */
+  opacity: 0;
 }
 
 .navbar__toggle-btn {
